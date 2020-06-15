@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cairo guide</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="place">PLACES</string>
+    <string name="museums">MUSEUMS</string>
+    <string name="cities">districts</string>
+    <string name="art">Artists</string>
+</resources>
